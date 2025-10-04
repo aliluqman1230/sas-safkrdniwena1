@@ -1,6 +1,6 @@
 import { GoogleGenAI, Modality, GenerateContentResponse } from "@google/genai";
 
-const API_KEY = process.env.API_KEY;
+const API_KEY = process.env.AIzaSyBTfHSdtArjYRgD75MIf96P3cHP9Nny9osY;
 
 const ai = new GoogleGenAI({ apiKey: API_KEY });
 
